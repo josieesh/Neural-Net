@@ -1,8 +1,6 @@
 import java.util.Random;
 
-/**
- * Created by kevin on 2017-06-02.
- */
+
 public class MainClass {
 
     public final Matrix input = new Matrix(2, 1);
